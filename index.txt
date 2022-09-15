@@ -1,0 +1,2 @@
+It is a index file . In the repository folder of git_test.
+Adding new line after adding .
